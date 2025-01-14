@@ -19,6 +19,6 @@ This is the unofficial Japanese translation of the [OWASP Cyber Controls Matrix 
 
 [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
-## Author (日本語訳)
+## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
